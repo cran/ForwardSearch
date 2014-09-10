@@ -1,0 +1,12 @@
+3c34afdc3adf82d2448f12715a255122 *COPYING
+56388173b1353e099e7cf80a724d8d93 *DESCRIPTION
+19801e4dd0531e077a28f434deea78e3 *NAMESPACE
+4915e8ca53a3c29d496fec0a7c70d2cb *R/ForwardSearch.r
+0c5ac4f153405e547b8579bf4edde410 *data/Fulton.rda
+036745f58722aee4f72f1dbf12ed5e79 *data/Fulton.txt.gz
+be8bc2edec424664292dc0da1cd23ec1 *man/ForwardSearch-package.Rd
+83b3dfe7344b45be91738b8ae5722ed2 *man/ForwardSearch.fit.Rd
+c330b2255e374830cb7d7e6a44b55db3 *man/ForwardSearch.plot.Rd
+8f2d6be6c6c369e1b9e54783ddb8475c *man/ForwardSearch.pointwise.asymptotics.Rd
+d3243499cdf6f6652c0aa902fdb78a5e *man/ForwardSearch.stopped.Rd
+bab703922409c346206d926cdf1b922f *man/data.Fulton.fish.Rd
